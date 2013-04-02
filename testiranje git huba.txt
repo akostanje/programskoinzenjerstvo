@@ -1,1 +1,5 @@
 dodal sam prvi redak
+
+korisnik 2: prvi red
+
+korisnik 2: treæi red
