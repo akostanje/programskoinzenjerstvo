@@ -1,0 +1,13 @@
+Database host
+	sql2.freesqldatabase.com
+Database name
+	sql25907
+Database username
+	sql25907
+Database password
+	kY9!tP6%
+
+
+phpMyAdmin -> http://www.phpmyadmin.co/
+
+host -> http://www.freemysqlhosting.net/
